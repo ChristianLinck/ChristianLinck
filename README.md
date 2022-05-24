@@ -1,5 +1,5 @@
 <p align="left">Hello! I'm <strong>Christian Linck (Benkz)</strong></p>
-<p align="left">A passionate game developer from Brazil</p>
+<p align="left">A passionate game developer from Porto Alegre, Brazil</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlinck&label=Profile%20views&color=0e75b6&style=flat" alt="christianlinck" /> </p>
 
