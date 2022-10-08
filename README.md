@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlinck&label=Profile%20views&color=0e75b6&style=flat" alt="christianlinck" /> </p>
 
-- 🔭 I’m currently working on [Tibia Gameplay Videos](https://www.youtube.com/benkz)
+- 🔭 I’m currently working on [ADP] as an Intern Developer(https://br.adp.com/)
 
-- 🌱 I’m currently learning **HTML5, PHP, SQL and GODOT**
+- 🌱 I’m currently learning **JAVA, SPRING BOOT, HTML5, PHP, SQL and GODOT**
 
 - 👯 I’m looking to collaborate on [Bestiary.com.br](https://bestiary.com.br/)
 
