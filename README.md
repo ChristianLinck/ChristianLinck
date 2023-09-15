@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JAVA, SPRING BOOT, HTML5, PHP, SQL and GODOT**
 
-- 👯 I’m looking to collaborate on [Bestiary.com.br](https://bestiary.com.br/)
-
 - 👨‍💻 All of my projects are available at [https://benkz.com.br/portfolio.php](https://benkz.com.br/portfolio.php)
 
 - 📝 I regularly write articles on [https://discord.gg/WJ8qXWvW5q](https://discord.gg/WJ8qXWvW5q)
