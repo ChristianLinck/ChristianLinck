@@ -7,13 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA and SPRING BOOT**
 
-- 👨‍💻 All of my projects are available at [https://benkz.com.br/portfolio.php](https://benkz.com.br/portfolio.php)
-
-- 📝 I regularly write articles on [https://discord.gg/WJ8qXWvW5q](https://discord.gg/WJ8qXWvW5q)
-
 - 📫 How to reach me **christian.linck@hotmail.com**
-
-- 📄 Know about my experiences [https://benkz.com.br/](https://benkz.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
