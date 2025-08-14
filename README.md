@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlinck&label=Profile%20views&color=0e75b6&style=flat" alt="christianlinck" /> </p>
 
-- 🔭 I’m currently working on [ADP] as an Associate Software Developer. (https://br.adp.com/)
+- 🔭 I’m currently working on [ADP] as a Software Developer. (https://br.adp.com/)
 
-- 🌱 I’m currently learning **JAVA and SPRING BOOT**
+- 🌱 I’m currently working with **JAVA, SPRING BOOT and AWS Services**
 
 - 📫 How to reach me **christian.linck@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benkzstream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benkzstream" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christianbenkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianbenkz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christian-linck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianbenkz" height="30" width="40" /></a>
 <a href="https://instagram.com/christianlinck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christianlinck" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/benkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benkz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/WJ8qXWvW5q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WJ8qXWvW5q" height="30" width="40" /></a>
